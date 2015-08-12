@@ -8,6 +8,7 @@
 - 158 5009 7406  （江苏·苏州 移动）
 - lwz0316@gmail.com
 - 本科 - 毕业于 南昌航空大学
+- [https://github.com/lwz0316](https://github.com/lwz0316)
 
 ### 应聘信息
 
