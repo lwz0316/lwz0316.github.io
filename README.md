@@ -11,10 +11,9 @@
 - 本科 - 毕业于 南昌航空大学
 - [https://github.com/lwz0316](https://github.com/lwz0316)
 
-### 应聘信息
 
-- 应聘岗位
-	* Android 开发工程师
+### 应聘岗位
+- Android 开发工程师
 
 
 ### 专业技能
