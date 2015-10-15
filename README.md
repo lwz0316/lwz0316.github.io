@@ -18,7 +18,7 @@
 
 ### 专业技能
 
-- 3 年以上 Android 平台开发经验
+- 2 年以上 Android 平台开发经验
 - 熟练使用 Android 集成开发环境 Eclipse + ADT
 - 熟悉 Android Studio 的使用
 - 熟悉 Java 程序设计
